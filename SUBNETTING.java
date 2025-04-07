@@ -96,3 +96,17 @@ public class SUBNETTING {
         
     }
 }
+
+
+//OUTPUT:
+
+//Enter the IP address:
+// 10.10.10.1
+// Address range of subnet1=
+// 10.0.0.0
+// Address range of subnet2=
+// 10.0.0.64
+// Address range of subnet3=
+// 10.0.0.128
+// Address range of subnet4=
+// 10.0.0.192
