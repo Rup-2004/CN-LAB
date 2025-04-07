@@ -12,7 +12,7 @@ public class IPADDRESS {
         System.out.println();
         String[] nwAddress=CalculatenwAddress(identifyClass(parts[0]),parts);
         int count=0;
-        System.out.println("Network A");
+        System.out.println("Network Address=");
         for(String item : nwAddress){
             count+=1;
             System.out.print(item);
