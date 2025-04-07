@@ -82,5 +82,5 @@ public class IPADDRESS {
 // 10.10.10.1
 // Class  of the IP Address=
 // A
-// Network A
+// Network Address=
 // 10.0.0.0
